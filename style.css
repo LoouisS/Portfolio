@@ -1,0 +1,10 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+}
+header, main, section {
+    border: 2px solid red;
+}
+#profile_pic {
+    border-radius: 200px;
+    height: 300px;
+}
